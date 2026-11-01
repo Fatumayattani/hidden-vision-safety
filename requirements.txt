@@ -2,3 +2,4 @@ cohere
 datasets
 pillow
 python-dotenv
+matplotlib
