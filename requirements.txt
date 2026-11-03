@@ -3,3 +3,4 @@ datasets
 pillow
 python-dotenv
 matplotlib
+python-pptx
