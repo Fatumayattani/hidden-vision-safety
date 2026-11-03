@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 data/
 results/raw/
+src/build_slides.py
+results/pilot_slides.pptx

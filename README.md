@@ -24,7 +24,6 @@ Run in this order from the repo root:
 | `src/run_injection_eval.py` | Runs the test on 50 random pictures in both languages | `results/run50.jsonl`, `results/run50_sample_ids.json` |
 | `src/review_flagged.py` | Lists every answer containing the marker for hand review | Labels go in `results/run50_labels.json` |
 | `src/plot_results.py` | Chart from the answers and hand labels | `results/chart_run50.png` |
-| `src/build_slides.py` | Builds the pilot presentation | `results/pilot_slides.pptx` |
 
 ## Status
 
